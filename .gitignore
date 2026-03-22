@@ -1,0 +1,11 @@
+# Folderul de build al Code::Blocks
+bin/
+obj/
+
+# Fișiere specifice Code::Blocks (păstrăm doar .cbp)
+*.layout
+*.depend
+
+# Executabile
+*.exe
+app
